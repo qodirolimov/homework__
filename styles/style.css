@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../images/body-bg20.png");
+}
+
+.box {
+  width: 300px;
+}
+
+
+
+.select {
+  width: 299px;
+  position: relative;
+  left: 29px;
+}
+
+.box:hover {
+  box-shadow: 0px 0px 0px 2px beige;
+}
+
+
+
+
+
+
+
