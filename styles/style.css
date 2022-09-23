@@ -8,11 +8,10 @@ body {
   background-image: url("../images/body-bg20.png");
 }
 
+
 .box {
   width: 300px;
 }
-
-
 
 .select {
   width: 299px;
@@ -24,9 +23,11 @@ body {
   box-shadow: 0px 0px 0px 2px beige;
 }
 
-
-
-
-
-
-
+.black {
+  background-color: black !important;
+  transition: all 2s ease;
+  -webkit-transition: all 2s ease;
+  -moz-transition: all 2s ease;
+  -ms-transition: all 2s ease;
+  -o-transition: all 2s ease;
+}
